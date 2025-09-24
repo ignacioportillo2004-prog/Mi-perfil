@@ -1,2 +1,11 @@
-H1 
-color: blue;
+body { 
+    background-color: rgb(170, 151, 89)
+
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    
+}
+
